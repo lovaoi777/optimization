@@ -4,7 +4,7 @@ import SurveyItem from './SurveyItem'
 
 
 const SurveyChart = () => {
-    const [answer, setAnswer] = useState([])
+    const [answer, setAnswer] = useState([]) 
     const [survey, setSurvey] = useState([])
     const [filter, setFilter] = useState({})
 
