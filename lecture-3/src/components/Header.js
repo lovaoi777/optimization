@@ -29,7 +29,7 @@ function Header(props) {
 								<svg className="fill-current w-4 h-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
 									<path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/>
 								</svg>
-							</button>
+							</button> 
 							<div className="hidden lg:flex lg:items-center lg:justify-between px-6">
 								<div className="flex justify-start items-center text-gray-500">
 									<Link className="block flex items-center hover:text-gray-700 mr-5" to={'/'} >
